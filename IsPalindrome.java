@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
     String str= isPalindrome("aaaAAAaaa");
-        System.out.println(str);
+       System.out.println(str);
     }
     static String isPalindrome(String s){
         char[] ch=s.toCharArray();
